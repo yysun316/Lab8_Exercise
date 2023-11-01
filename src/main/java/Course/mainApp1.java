@@ -5,7 +5,7 @@ public class mainApp1 {
         Score k = new Score();
         k.setQuiz(90);
         k.setMidTExam(70);
-        k.setFinalExam(85);
+        k.setFinalExam(75);
         System.out.println("Quiz        : "+k.Quiz);
         System.out.println("Midterm Exam: "+k.MidTExam);
         System.out.println("Final Exam  : "+k.FinalExam);
